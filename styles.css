@@ -1,4 +1,17 @@
-body{
-background-image: url("./images/background/h_img.jpg");
+.list{
+    background-image: url("./images/background/h_img.jpg");
 background-size: cover;
+    text-align: center;
+    padding-top:20%;
+    color:white;  
+}
+.about{
+    text-align: center;
+    background-color: white; 
+}
+.Service{
+    background-image: url("./images/background/s_image.jpg");
+    background-size: cover;
+    color: white;
+    text-align: center;
 }
