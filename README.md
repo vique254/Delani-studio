@@ -1,9 +1,9 @@
 # Project  Name
-**Delani_Studio**
+***Delani_Studio***
 ### Project Description
 A visual studio that does different kinds of activities to create employment opportunities for jobless.
 ## Author Name
-**Vique/Victor*
+    *Vique/Victor*
 ### Technologies Used
 * CSS
 * HTML
