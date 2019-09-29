@@ -1,10 +1,4 @@
-// function myFunction() {
-//   var send= (document.getElementById("send").innerHTML = "SEND");
-//   var name= (document.getElementById("name").value);
-    
-//   }
 
-  
 $(document).ready(function(){
     $(".click1").click(function(){
         $("#par1").toggle();
